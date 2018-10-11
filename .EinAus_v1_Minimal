@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<session version="4.0.3">
+<session version="4.3.0">
  <item name="license">GPL</item>
- <group name="locked">
-  <item name="item">~</item>
-  <item name="item">${AOs}</item>
-  <item name="item">${.}</item>
-  <item name="item">${.::EinAus.ino}</item>
- </group>
+ <group name="locked"/>
  <group name="settings">
   <item name="tabs">1</item>
   <item name="windows">0</item>
@@ -14,8 +9,8 @@
   <item name="backups">0</item>
  </group>
  <group name="windows">
-  <item id="AOs::EinAus::SM">-861,0,1021,457</item>
-  <item id=".::EinAus.ino">0,0,1388,803,*</item>
+  <item id="AOs::EinAus::SM">0,0,638,898,*</item>
+  <item id=".::EinAus.ino">715,0,602,898</item>
  </group>
  <group name="search">
   <item name="options">4129280</item>
